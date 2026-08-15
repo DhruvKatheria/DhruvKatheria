@@ -94,9 +94,10 @@ More projects and repositories are available below in my GitHub profile.
 
 📊 GitHub Stats
 
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvKatheria&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKatheria&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvKatheria&theme=tokyo-night&hide_border=true" alt="Dhruv Katheria's GitHub Activity Graph"/>
 </p>
 
 <p align="center">
