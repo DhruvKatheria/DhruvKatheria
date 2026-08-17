@@ -1,4 +1,4 @@
-Hi 👋, I'm Dhruv Katheria
+## Hi 👋, I'm Dhruv Katheria
 
 Software Engineering Student | Problem Solver | Builder
 
@@ -11,7 +11,7 @@ Software Engineering Student | Problem Solver | Builder
   </a>
 </p>
 
-🚀 About Me
+## 🚀 About Me
 
 I'm a B.Tech Information Technology student focused on building strong foundations in
 Data Structures & Algorithms, Software Engineering, Backend Development, and Databases.
@@ -28,7 +28,7 @@ Data Structures & Algorithms, Software Engineering, Backend Development, and Dat
 
 🤝 Open to software engineering internships, projects and collaboration
 
-🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal
 
 Languages
 
@@ -48,51 +48,54 @@ Databases & Tools
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode" alt="Databases and Tools"/>
 </p>
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🛡️ AI-Powered Phishing Detector
+<table> <tr> <td width="50%" valign="top">
 
-A machine-learning based application for detecting phishing and malicious communication patterns.
+🛡️ AI-Based Phishing Detector
 
-Tech: Python, Flask, JavaScript, HTML/CSS, BERT
+AI-powered phishing detection system
 
-Built a classification pipeline for phishing-related emails and URLs
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/BERT-FF6F00?style=flat-square"/> </p>
 
-Includes a web interface for analyzing potentially malicious inputs
+Built an AI-powered phishing email and URL detection system.
+Fine-tuned and integrated a pretrained BERT model for phishing email classification.
+Recognizes threat patterns and classifies communications by threat level based on deception and detectability.
 
-📚 Library Book Allocation Management System
+</td>
 
-A database-focused application designed to manage book allocation, student records and due-date tracking.
+<td width="50%" valign="top">
 
-Tech: MySQL, SQL
+💰 FinTrack: Personal Finance Management Platform
 
-Designed relational schemas and database operations
+<p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> </p>
 
-Focused on normalization, queries and practical DBMS workflows
+Full-stack platform with JWT authentication, transaction management, budgeting and expense categorization.
+Designed RESTful APIs and a normalized PostgreSQL database schema.
+Built interactive dashboards for spending analytics, category-wise charts and budget tracking.
 
-🔧 Quick Fix — Local Service Finder
+</td> </tr>
 
-A platform concept for connecting users with nearby service providers such as plumbers, electricians and carpenters.
+<tr> <td width="50%" valign="top">
 
-Focus: Location-based discovery, service management and user workflows
+⛓️ SettleChain
 
-Designed with a full-stack architecture in mind
+Decentralized Escrow & Dispute Resolution
 
-🏛️ Monastery360
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Algorand-000000?style=flat-square&logo=algorand&logoColor=white"/> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/> </p>
 
-A digital heritage platform concept for exploring monasteries through interactive maps, virtual experiences and digital archives.
+Built a decentralized escrow protocol using Algorand PyTeal smart contracts.
+Integrated SHA-256 hashing and IPFS for immutable proof of requirements and submissions.
+Designed a staking-based validator system with randomized oracles and incentive slashing.
 
-Focus: Interactive maps, virtual tours, cultural archives and AI-assisted discovery
+</td> </tr>
+</table>
 
-More projects and repositories are available below in my GitHub profile.
-
-🧠 Problem Solving
+## 🧠 Problem Solving
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dhruvkatheria?theme=dark&font=Baloo&ext=heatmap" alt="Dhruv's LeetCode Stats"/>
 </p>
-
-📊 GitHub Stats
 
 ## 📊 GitHub Activity
 
@@ -100,9 +103,6 @@ More projects and repositories are available below in my GitHub profile.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvKatheria&theme=tokyo-night&hide_border=true" alt="Dhruv Katheria's GitHub Activity Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DhruvKatheria&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 🎯 Currently Working On
 
@@ -116,7 +116,8 @@ More projects and repositories are available below in my GitHub profile.
 
 📖 Learning more about system design and scalable backend architecture
 
-🤝 Let's Connect
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/DhruvKatheria">
